@@ -22,7 +22,7 @@ export default () => {
                             <div class="phone mt-5">
                                 <i class="bi bi-phone"></i>
                                 <h4>Call:</h4>
-                                <p>+251912909541</p>
+                                <p>+771511569</p>
                             </div>
 
                             <div class="social-links mt-5">

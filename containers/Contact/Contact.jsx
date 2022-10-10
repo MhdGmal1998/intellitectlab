@@ -16,7 +16,7 @@ export default () => {
                             <div class="email">
                                 <i class="bi bi-envelope"></i>
                                 <h4>Email:</h4>
-                                <a href="mailto: utopixtechnologies@gmail.com">utopixtechnologies@gmail.com</a>
+                                <a href="mailto: utopixtechnologies@gmail.com">intellitectlab@gmail.com</a>
                             </div>
 
                             <div class="phone mt-5">
